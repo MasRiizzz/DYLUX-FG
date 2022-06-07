@@ -3,15 +3,15 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true], 
-  ['5492622689586'], 
-  ['5493885839638'], 
- ['573125484672'] 
+  [ '6285876810596' , 'Rizki Muhammad Adam' , benar ],
+  [ '6285876810596' ],2
+  [ '6285876810596' ],
+ ['6285876810596'] 
   
 ] //Numeros de owner 
 
 global.mods = [] // Moderadores
-global.prems = ['50489079501', '5219631769130', '573125484672']  // El usuario Premium tiene diamantes ilimitado
+global.prems = ['6285876810596', '6285876810596', '6285876810596']  // El usuario Premium tiene diamantes ilimitado
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -35,12 +35,12 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'dylux-bot'
-global.author = '@fg98._'
-global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98._\n' 
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
+global.author = '© Rizki Muhammad Adam_'
+global.igfg = '\n▢ Sígueme en Instagram\nhttps://www.instagram.com/rizzkymaa\n' 
+global.fgsc = 'https://github.com/MasRiizzz/DYLUX-FG' 
+global.fgyt = 'https://youtube.com/RizzkyFames'
 
-global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱▱*'
+global.wait = '*⌛ _Loading..._*\n*▰▰▰▱▱▱▱▱▱*'
 
 global.multiplier = 69 // Cuanto más alto, más difícil subir de nivel
 
